@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumLinqVsDictImperative", "EnumLinqVsDictImperative\EnumLinqVsDictImperative.csproj", "{032D4C88-D3CB-4EC8-AD6C-5670F2FDD586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{032D4C88-D3CB-4EC8-AD6C-5670F2FDD586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032D4C88-D3CB-4EC8-AD6C-5670F2FDD586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032D4C88-D3CB-4EC8-AD6C-5670F2FDD586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032D4C88-D3CB-4EC8-AD6C-5670F2FDD586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
